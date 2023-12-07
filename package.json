@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/cli": "^17.0.6",
+    "@angular/router": "^17.0.6",
+    "ng": "^0.0.0"
+  }
+}
