@@ -8,7 +8,7 @@ import { PageAcceuilComponent } from './components/page-acceuil/page-acceuil.com
 @NgModule({
   declarations: [
     AppComponent,
-    SlideBardComponent
+    SlideBardComponent,
     PageAcceuilComponent
   ],
   imports: [

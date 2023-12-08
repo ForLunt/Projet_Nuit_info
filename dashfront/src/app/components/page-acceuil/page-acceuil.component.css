@@ -1,0 +1,53 @@
+.title_small {
+    text-shadow: 2px 2px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.title_med {
+    text-shadow: 10px 10px;
+    text-align: center;
+    font-size: 250px;
+}
+
+.title_big {
+    text-shadow: 20px 20px;
+    text-align: center;
+    font-size: 500px;
+}
+
+.fuchsia{color:fuchsia;}
+.lime{color:lime;}
+.black{color:black;}
+.teal{color:teal;}
+.red{color:red;}
+.silver{color:silver;}
+.purple{color:purple;}
+.yellow{color:yellow;}
+.maroon{color:maroon;}
+.blue {color: blue;}
+.green {color: green;}
+.navy {color: navy;}
+.olive {color: olive;}
+.gray {color: gray;}
+.orange {color: orange;}
+.cyan {color: cyan;}
+.pink {color: pink;}
+.brown {color: brown;}
+.violet {color: violet;}
+.indigo {color: indigo;}
+.darkgreen {color: darkgreen;}
+.lightblue {color: lightblue;}
+.magenta {color: magenta;}
+.darkred {color: darkred;}
+.lightgreen {color: lightgreen;}
+
+.dotted {border-style: dotted;}
+.dashed {border-style: dashed;}
+.solid {border-style: solid;}
+.double {border-style: double;}
+.groove {border-style: groove;}
+.ridge {border-style: ridge;}
+.inset {border-style: inset;}
+.outset {border-style: outset;}
+.none {border-style: none;}
