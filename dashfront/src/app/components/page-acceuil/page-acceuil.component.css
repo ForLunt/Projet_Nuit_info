@@ -16,6 +16,7 @@
     font-size: 500px;
 }
 
+.aqua{color: aqua;}
 .fuchsia{color:fuchsia;}
 .lime{color:lime;}
 .black{color:black;}
@@ -42,6 +43,60 @@
 .darkred {color: darkred;}
 .lightgreen {color: lightgreen;}
 
+.aqua:hover{transform: scale(1.5);}
+.fuchsia:hover{transform: scale(1.5);}
+.lime:hover{transform: scale(1.5);}
+.black:hover{transform: scale(1.5);}
+.teal:hover{transform: scale(1.5);}
+.red:hover{transform: scale(1.5);}
+.silver:hover{transform: scale(1.5);}
+.purple:hover{transform: scale(1.5);}
+.yellow:hover{transform: scale(1.5);}
+.maroon:hover{transform: scale(1.5);}
+.blue:hover {transform: scale(1.5);}
+.green:hover {transform: scale(1.5);}
+.navy:hover {transform: scale(1.5);}
+.olive:hover {transform: scale(1.5);}
+.gray:hover {transform: scale(1.5);}
+.orange:hover {transform: scale(1.5);}
+.cyan:hover {transform: scale(1.5);}
+.pink:hover {transform: scale(1.5);}
+.brown:hover {transform: scale(1.5);}
+.violet:hover{transform: scale(1.5);}
+.indigo:hover {transform: scale(1.5);}
+.darkgreen:hover {transform: scale(1.5);}
+.lightblue:hover {transform: scale(1.5);}
+.magenta:hover {transform: scale(1.5);}
+.darkred:hover {transform: scale(1.5);}
+.lightgreen:hover {transform: scale(1.5);}
+
+.back-aqua{background-color: aqua;}
+.back-fuchsia{background-color:fuchsia;}
+.back-lime{background-color:lime;}
+.back-black{background-color:black;}
+.back-teal{background-color:teal;}
+.back-red{background-color:red;}
+.back-silver{background-color:silver;}
+.back-purple{background-color:purple;}
+.back-yellow{background-color:yellow;}
+.back-maroon{background-color:maroon;}
+.back-blue {background-color: blue;}
+.back-green {background-color: green;}
+.back-navy {background-color: navy;}
+.back-olive {background-color: olive;}
+.back-gray {background-color: gray;}
+.back-orange {background-color: orange;}
+.back-cyan {background-color: cyan;}
+.back-pink {background-color: pink;}
+.back-brown {background-color: brown;}
+.back-violet {background-color: violet;}
+.back-indigo {background-color: indigo;}
+.back-darkgreen {background-color: darkgreen;}
+.back-lightblue {background-color: lightblue;}
+.back-magenta {background-color: magenta;}
+.back-darkred {background-color: darkred;}
+.back-lightgreen {background-color: lightgreen;}
+
 .dotted {border-style: dotted;}
 .dashed {border-style: dashed;}
 .solid {border-style: solid;}
@@ -51,3 +106,10 @@
 .inset {border-style: inset;}
 .outset {border-style: outset;}
 .none {border-style: none;}
+
+.TNR{font-family: "Times New Roman", Times, serif;}
+.ARI{font-family: "Arial, Helvetica", sans-serif;}
+.GAB{font-family: "Gabriola"}
+.INK{font-family: "Ink Free"}
+.MVB{font-family: "MV boli";}
+.SCH{font-family: "microsoft himalaya";}
